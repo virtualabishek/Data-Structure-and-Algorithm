@@ -15,12 +15,12 @@ The repository contains:
 
 ## Installation
 To install this project, clone the GitHub repository and run the cpp file:
-``
+```
 git clone https://github.com/virtualabishek/Data-Structure-and-Algorithm
 cd Data-Structure-and-Algorithm
  g++ programname.c
  ./programname
-``
+```
 
 ## Usage
 Feel free to explore the codes, projects, and documentation provided in this repository. You can use them for academic purposes, reference, or as a learning tool for understanding data structures and algorithms.
