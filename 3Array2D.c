@@ -1,5 +1,5 @@
 // Two Dimensional Matrix
-//A program to find addition of any two matrices by using function
+//A program to find addition of any two matrices
 #include<stdio.h>
 #include<conio.h>
 
