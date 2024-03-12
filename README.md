@@ -14,7 +14,7 @@ The repository contains:
 - **Resources**: Additional resources such as textbooks, papers, and links for further learning.
 
 ## Installation
-To install this project, clone the GitHub repository and run the cpp file:
+To install this project, clone the GitHub repository and run the c file:
 ```
 git clone https://github.com/virtualabishek/Data-Structure-and-Algorithm
 cd Data-Structure-and-Algorithm
